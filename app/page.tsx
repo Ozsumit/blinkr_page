@@ -100,7 +100,7 @@ export default function Home() {
                     className="bg-blue-600 hover:bg-blue-700 text-white"
                   >
                     <Link
-                      href="https://github.com/Ozsumit/Blinkr/releases"
+                      href="https://github.com/Ozsumit/Blinkr/releases/download/Alpha/app-release.apk"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -483,7 +483,7 @@ export default function Home() {
                   className="bg-blue-600 hover:bg-blue-700 text-white"
                 >
                   <Link
-                    href="https://github.com/Ozsumit/Blinkr/releases/latest"
+                    href="https://github.com/Ozsumit/Blinkr/releases/download/Alpha/app-release.apk"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
